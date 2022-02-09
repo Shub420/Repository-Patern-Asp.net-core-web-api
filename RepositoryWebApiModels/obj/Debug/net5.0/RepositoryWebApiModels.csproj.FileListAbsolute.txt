@@ -1,0 +1,12 @@
+D:\Shubham data\Repository_WebApi\RepositoryWebApiModels\bin\Debug\net5.0\RepositoryWebApiModels.deps.json
+D:\Shubham data\Repository_WebApi\RepositoryWebApiModels\bin\Debug\net5.0\RepositoryWebApiModels.dll
+D:\Shubham data\Repository_WebApi\RepositoryWebApiModels\bin\Debug\net5.0\ref\RepositoryWebApiModels.dll
+D:\Shubham data\Repository_WebApi\RepositoryWebApiModels\bin\Debug\net5.0\RepositoryWebApiModels.pdb
+D:\Shubham data\Repository_WebApi\RepositoryWebApiModels\obj\Debug\net5.0\RepositoryWebApiModels.csprojAssemblyReference.cache
+D:\Shubham data\Repository_WebApi\RepositoryWebApiModels\obj\Debug\net5.0\RepositoryWebApiModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shubham data\Repository_WebApi\RepositoryWebApiModels\obj\Debug\net5.0\RepositoryWebApiModels.AssemblyInfoInputs.cache
+D:\Shubham data\Repository_WebApi\RepositoryWebApiModels\obj\Debug\net5.0\RepositoryWebApiModels.AssemblyInfo.cs
+D:\Shubham data\Repository_WebApi\RepositoryWebApiModels\obj\Debug\net5.0\RepositoryWebApiModels.csproj.CoreCompileInputs.cache
+D:\Shubham data\Repository_WebApi\RepositoryWebApiModels\obj\Debug\net5.0\RepositoryWebApiModels.dll
+D:\Shubham data\Repository_WebApi\RepositoryWebApiModels\obj\Debug\net5.0\ref\RepositoryWebApiModels.dll
+D:\Shubham data\Repository_WebApi\RepositoryWebApiModels\obj\Debug\net5.0\RepositoryWebApiModels.pdb

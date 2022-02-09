@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Repository_WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:Repository_WebApi.Controllers.EmployeeController.GetAllEmployees">
+            <summary>
+            Get All Employees 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Repository_WebApi.Controllers.EmployeeController.CreateEmployee(RepositoryWebApiBussinessLayer.DTOs.EmployeeDto)">
+            <summary>
+            Add New Employee
+            </summary>
+            <param name="employeeDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Repository_WebApi.Controllers.EmployeeController.GetEmployee(System.Int32)">
+            <summary>
+            Get individual employee by id 
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Repository_WebApi.Controllers.EmployeeController.UpdateEmployee(RepositoryWebApiBussinessLayer.DTOs.EmployeeDto)">
+            <summary>
+            Update Employee
+            </summary>
+            <param name="employeeDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Repository_WebApi.Controllers.EmployeeController.Delete(System.Int32)">
+            <summary>
+            To Delete individual employee
+            </summary>
+            <param name="empId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Repository_WebApi.Controllers.UserController.Authenticate(RepositoryWebApiModels.AuthenticateViewModel)">
+            <summary>
+            check User and Password
+            </summary>
+            <param name="authenticateViewMmodel"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Repository_WebApi.Controllers.UserController.Register(RepositoryWebApiModels.User)">
+            <summary>
+            Register New User
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

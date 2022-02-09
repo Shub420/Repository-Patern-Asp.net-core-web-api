@@ -1,0 +1,17 @@
+D:\Shubham data\Repository_WebApi\RepositoryWebApiBussinessLayer\bin\Debug\net5.0\RepositoryWebApiBussinessLayer.deps.json
+D:\Shubham data\Repository_WebApi\RepositoryWebApiBussinessLayer\bin\Debug\net5.0\RepositoryWebApiBussinessLayer.dll
+D:\Shubham data\Repository_WebApi\RepositoryWebApiBussinessLayer\bin\Debug\net5.0\ref\RepositoryWebApiBussinessLayer.dll
+D:\Shubham data\Repository_WebApi\RepositoryWebApiBussinessLayer\bin\Debug\net5.0\RepositoryWebApiBussinessLayer.pdb
+D:\Shubham data\Repository_WebApi\RepositoryWebApiBussinessLayer\bin\Debug\net5.0\RepositoryWebApiModels.dll
+D:\Shubham data\Repository_WebApi\RepositoryWebApiBussinessLayer\bin\Debug\net5.0\RepositoryWebApiModels.pdb
+D:\Shubham data\Repository_WebApi\RepositoryWebApiBussinessLayer\obj\Debug\net5.0\RepositoryWebApiBussinessLayer.csprojAssemblyReference.cache
+D:\Shubham data\Repository_WebApi\RepositoryWebApiBussinessLayer\obj\Debug\net5.0\RepositoryWebApiBussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shubham data\Repository_WebApi\RepositoryWebApiBussinessLayer\obj\Debug\net5.0\RepositoryWebApiBussinessLayer.AssemblyInfoInputs.cache
+D:\Shubham data\Repository_WebApi\RepositoryWebApiBussinessLayer\obj\Debug\net5.0\RepositoryWebApiBussinessLayer.AssemblyInfo.cs
+D:\Shubham data\Repository_WebApi\RepositoryWebApiBussinessLayer\obj\Debug\net5.0\RepositoryWebApiBussinessLayer.csproj.CoreCompileInputs.cache
+D:\Shubham data\Repository_WebApi\RepositoryWebApiBussinessLayer\obj\Debug\net5.0\RepositoryWebApiBussinessLayer.csproj.CopyComplete
+D:\Shubham data\Repository_WebApi\RepositoryWebApiBussinessLayer\obj\Debug\net5.0\RepositoryWebApiBussinessLayer.dll
+D:\Shubham data\Repository_WebApi\RepositoryWebApiBussinessLayer\obj\Debug\net5.0\ref\RepositoryWebApiBussinessLayer.dll
+D:\Shubham data\Repository_WebApi\RepositoryWebApiBussinessLayer\obj\Debug\net5.0\RepositoryWebApiBussinessLayer.pdb
+D:\Shubham data\Repository_WebApi\RepositoryWebApiBussinessLayer\bin\Debug\net5.0\RepositoryWebApiDataAccess.dll
+D:\Shubham data\Repository_WebApi\RepositoryWebApiBussinessLayer\bin\Debug\net5.0\RepositoryWebApiDataAccess.pdb
